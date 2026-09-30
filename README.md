@@ -2,7 +2,7 @@
 
 Medical billing can become more complicated when healthcare providers work with patients who have different insurance arrangements. One of the most important distinctions is whether a provider is considered in-network or out-of-network with a patient's health plan. Understanding this difference can help practices set realistic expectations about reimbursement, patient responsibility, claims processing, and administrative requirements.
 
-For practices dealing with frequent claim issues, a **[Denial Management Solution](https://ircm.com/services/denial-management-services/)** can also be an important part of maintaining a more organized revenue cycle. However, denial management is only one part of the larger billing process. Providers must first understand how network status affects the way claims are handled.
+For practices dealing with frequent claim issues, a **[Denial Management Solution]** can also be an important part of maintaining a more organized revenue cycle. However, denial management is only one part of the larger billing process. Providers must first understand how network status affects the way claims are handled.
 
 ## What Does In-Network Billing Mean?
 
@@ -146,7 +146,7 @@ Regular reporting can help practices track important measures such as denial rat
 
 Some practices manage billing internally, while others use external specialists for specific revenue cycle functions. The appropriate arrangement depends on practice size, staffing, specialty, claim volume, technology, and administrative requirements.
 
-When evaluating a **Medical Billing Company in NY**, for example, providers may want to examine its experience with relevant specialties, payer types, claim workflows, denial management processes, reporting capabilities, and communication practices. A company should be evaluated based on the specific needs of the practice rather than broad marketing claims.
+When evaluating a **[Medical Billing Company in NY](https://ircm.com/)**, for example, providers may want to examine its experience with relevant specialties, payer types, claim workflows, denial management processes, reporting capabilities, and communication practices. A company should be evaluated based on the specific needs of the practice rather than broad marketing claims.
 
 Providers can also compare whether outsourcing an entire billing function or only selected tasks makes more operational sense. Some practices may need assistance with claims and follow-up, while others may require support with coding, credentialing, eligibility verification, or denial resolution.
 
