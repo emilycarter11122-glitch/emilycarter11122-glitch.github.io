@@ -4,7 +4,7 @@ Medical billing can become more complicated when healthcare providers work with 
 
 For practices dealing with frequent claim issues, a **Denial Management Solution** can also be an important part of maintaining a more organized revenue cycle. However, denial management is only one part of the larger billing process. Providers must first understand how network status affects the way claims are handled.
 
-![In-Network vs. Out-of-Network Billing: What's the Difference?](C:\Users\z.hussain\Downloads\out-of-network-billing-services-a-complete-guide-for-healthcare-providers.png)
+![In-Network vs. Out-of-Network Billing: What's the Difference?](https://i.postimg.cc/TP3RMnxv/How-Does-Out-of-Network-Medical-Billing-Work.png)
 
 ## What Does In-Network Billing Mean?
 
