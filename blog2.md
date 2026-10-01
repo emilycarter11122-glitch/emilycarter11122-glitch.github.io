@@ -12,7 +12,7 @@ Out-of-network billing can occur in planned care, emergency situations, hospital
 
 The No Surprises Act introduced federal protections that restrict surprise billing in certain circumstances. For example, emergency services generally receive protection even when the provider is out of network. Certain non-emergency services provided at an in-network facility can also fall under the law's protections.
 
-https://i.postimg.cc/vH7cc1yf/Out-of-Network-Medical-Billing-and-the-No-Surprises-Act-What-Providers-Should-Know.png
+![Out-of-Network Medical Billing](https://i.postimg.cc/vH7cc1yf/Out-of-Network-Medical-Billing-and-the-No-Surprises-Act-What-Providers-Should-Know.png)
 
 ## How the No Surprises Act Affects Providers
 
