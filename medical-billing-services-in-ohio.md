@@ -60,12 +60,15 @@ Choosing a billing partner gets easier when you start with your own problems. Be
 ### Frequently Asked Questions
 
 **Should I outsource all my billing or just part?**
+
 Either can work. Some practices move only denial follow-up or payment posting. Decide after you list your problems and who owns each task.
 
 **What happens to open claims when I switch?**
+
 Ask for a written transition plan. It should say who works claims already submitted, who handles older unpaid ones, and when the handoff happens.
 
 **How do I check the work after hiring?**
+
 Review reports on a set schedule. Spot-check a few paid claims against remittances. Keep a log of repeat problems with the same payer or stage.
 
 **About the Author**
